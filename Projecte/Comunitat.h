@@ -2,6 +2,8 @@
 #include "MatriuSparse.h"
 #include <list>
 #include "Heap.h"
+#include "Tree.hpp"
+#include <map>
 
 class Comunitat
 {
@@ -16,6 +18,7 @@ public:
 	void InicialitzaDendrograms(){ m_pMAdj->calculaDendograms(m_vDendrograms); }
 	void calculaComunitats(list<Tree<double>*>& listDendrogram);
 	void fusiona(int com1, int com2);
+	void generaDendrogram(int pos1, int pos2, double deltaQp1p2);
 	void modificaVei(int com1, int com2, int vei, int cas);
 	int getM2() { return m_M2; }
 	vector<int> getK() { return m_k; }

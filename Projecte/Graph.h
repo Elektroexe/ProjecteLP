@@ -1,6 +1,7 @@
 //#include "MatriuSparseCSR.h"
 #include<algorithm> // for heap operations 
 #include "Comunitat.h"
+#include "Tree.hpp"
 
 class Graph
 {
