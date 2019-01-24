@@ -1,0 +1,2 @@
+Error num 1 a linia 1
+Fitxer 0KZackary.txt es mes curt que 0KZackaryOK.txt

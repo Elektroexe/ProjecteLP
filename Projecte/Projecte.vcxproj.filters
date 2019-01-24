@@ -78,6 +78,108 @@
     <Text Include="ZackaryKarate.txt">
       <Filter>Archivos de recursos</Filter>
     </Text>
+    <Text Include="0AEpinions.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0AEpinionsCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0AXarxaCom.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0AXarxaComCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0AZackary.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0AZackaryCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0COMXarxaCom.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0COMXarxaComComp.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0COMZack.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0COMZackComp.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0DeltaQEpinions.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0DeltaQEpinionsCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0DeltaQXarxaCom.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0DeltaQXarxaComCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0DeltaQZackary.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0DeltaQZackaryCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0HEpinions.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0HEpinionsCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0HXarxaCom.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0HXarxaComCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0HZackary.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0HZackaryCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0IndexComsEpinions.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0IndexComsEpinionsCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0IndexComsXarxaCom.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0IndexComsXarxaComCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0IndexComsZackary.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0IndexComsZackaryCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0KEpinions.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0KEpinionsCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0KXarxaCom.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0KXarxaComCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0KZackary.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="0KZackaryCOMP.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Comunitat.cpp">
